@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "don_pollo:block/image_6",
+    "up": "don_pollo:block/image_10",
+    "north": "don_pollo:block/image_9",
+    "east": "don_pollo:block/image_7",
+    "south": "don_pollo:block/image_11",
+    "west": "don_pollo:block/image_8",
+    "particle": "don_pollo:block/image_6"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,35 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="Not specified"
+
+[[mods]]
+modId="don_pollo"
+version="1.0.0"
+displayName="Don Pollo Mod"
+displayURL="https://mcreator.net"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+authors="Samuel Torres, MCreator"
+description="Echale salsa, echale picante, echale salsa, echale picante. Salamalecomalecosala. El que quiera perder su tiempo, entre ya a mi perfil. Y mucho dicen dique."
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.don_pollo]]
+    modId="neoforge"
+    type="required"
+    versionRange="[21.4.101-beta,)"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.don_pollo]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21.4]"
+    ordering="AFTER"
+    side="BOTH"
+
+
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration
