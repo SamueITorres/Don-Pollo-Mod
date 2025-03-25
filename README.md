@@ -1,20 +1,16 @@
 # 🐔 Don Pollo Mod
 
-Welcome to the **Don Pollo Mod**! An epic mod that introduces new mechanics and challenges to your world.
+Welcome to the **Don Pollo Mod**! A silly mod that introduces new challenges to your world.
 
 ## ✨ New Features
 
 - **🪨 Don Pollo Mineral Ore**  
-  Discover a new mineral with unique properties.
 
 - **👷 Don Pollo Villager Work**  
-  Villagers can now work on Don Pollo-related tasks!
 
 - **🐔💥 Don Pollo Boss Fight**  
-  Face Don Pollo in a legendary battle!
 
 - **⚔️ Don Pollo Sword (kind of)**  
-  A special weapon with mysterious abilities.
 
 ## 📦 Installation
 
