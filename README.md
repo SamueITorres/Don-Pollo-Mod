@@ -1,6 +1,6 @@
 # 🐔 Don Pollo Mod
 
-Welcome to the **Don Pollo Mod**! A silly mod that introduces new challenges to your world.
+Made with MCreator for Hackclub Minecradt YSWS V1, my project was rejected for using this tool so I did it again for V2 of this event.
 
 ## ✨ New Features
 
@@ -16,4 +16,4 @@ Welcome to the **Don Pollo Mod**! A silly mod that introduces new challenges to 
 
 1. Download the `.jar` file of the mod.
 2. Place it in the `mods/` folder of your game.
-3. Launch Minecraft with Forge or Fabric (depending on the mod version).
+3. Launch Minecraft with NeoForge
